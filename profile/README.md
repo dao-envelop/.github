@@ -1,4 +1,4 @@
-# ENVELOP superDAO
+# DAO Envelop
 
 <img src="https://raw.githubusercontent.com/dao-envelop/.github/main/profile/envelop-profile.jpg">
 
@@ -17,3 +17,4 @@ Envelop consists of three parts:
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=medium&logoColor=white)](https://discord.gg/gtYcjqq76f)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://www.facebook.com/daoenvelop)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/company/niftsy)
+[![](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://t.me/envelop_en)
