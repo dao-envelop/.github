@@ -9,7 +9,10 @@ Our long term aim is cross-chain tokenization of payment channels (rollups) to i
 Envelop consists of three parts:
 1) Protocol to add the digital assets inside NFTs and set new features;
 2) Oracle to score the collateral and assess the quality of assets inside NFTs;
-3) Index to hedge the position to whole NFT market — becomes one of the first decentralised and collateralised simultaneously market indices for NFT and related assets.
+3) Index to hedge the position to whole NFT market — becomes one of the first decentralised and collateralised simultaneously market indices for NFT and related assets.  
+
+
+Wanna Get More?  - Should Visit **Envelop NFT2.0 Aggregator**  https://nft2.envelop.is/ 
 
 ## Links
 
