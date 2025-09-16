@@ -14,6 +14,15 @@ Envelop consists of three parts:
 
 Wanna Get More?  - Should Visit **Envelop NFT2.0 Aggregator**  https://nft2.envelop.is/ 
 
+## Use Cases
+1. Tokenized tradable vested allocations for Animoca Brands (https://blog.envelop.is/envelop-is-entering-into-a-technical-partnership-with-scaleswap-7b6e128220a9)
+2. Per,issionless launchpad with custom showcases for token distribution and sell NFT Scaleswap (https://blog.envelop.is/envelop-is-entering-into-a-technical-partnership-with-scaleswap-7b6e128220a9)
+3. Liquid farming with no loss of APY for Sharkrace (https://sharkrace.com/blog/tpost/6hjz1pvcr1-shrk-staking-programme)
+4. Tradable non-custodial crypto funds (index) (https://paragraph.com/@envelop/first-yield-generating-assets-index-on-blast)
+5. Tokengating, gifts and event-as-a-service platform (https://myshch.io/)
+6. Dynamic onchain reputation system based Updatable SBT (https://www.youtube.com/watch?v=_n_YEvWuxVQ)
+7. Token Subscription module for increasing utility (https://niftsy-protocol-niftsy-1.gitbook.io/niftsy/tech/smart-contracts/subscription-service)
+
 ## Links
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://twitter.com/Envelop_project)
